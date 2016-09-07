@@ -32,5 +32,5 @@ var feature = 'closures';
       console.log('JS developers love its ' + feature );     
     } 
 })();
-```
 "JS developers love its closures"
+```
